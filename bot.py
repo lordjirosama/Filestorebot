@@ -14,8 +14,8 @@
 #  ╚██████╗╚██████╔╝██████╔╝███████╗██║░░██║
 #  ░╚═════╝░╚═════╝░╚═════╝░╚══════╝╚═╝░░╚═╝
 #
-#                         ✨ MADE BY UNRATED CODER ✨
-#                  Join Updates Channel: https://t.me/UNRATED_CODER
+#                         ✨ MADE BY @EmptyJohan ✨
+#                  Join Updates Channel: https://t.me/UnknownBotz
 #=====================================================================================##
 
 import asyncio
@@ -161,6 +161,6 @@ class Bot(Client):
         super().run()
 
 # =====================================================================================##
-#                         ✨ MADE BY UNRATED CODER ✨
-#                  Join Updates Channel: https://t.me/UNRATED_CODER
+#                         ✨ MADE BY @EmptyJohan ✨
+#                  Join Updates Channel: https://t.me/UnknownBotz
 #====================================================================================##
