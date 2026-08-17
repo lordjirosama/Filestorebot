@@ -14,8 +14,8 @@
 #  ╚██████╗╚██████╔╝██████╔╝███████╗██║░░██║
 #  ░╚═════╝░╚═════╝░╚═════╝░╚══════╝╚═╝░░╚═╝
 #
-#                         ✨ MADE BY UNRATED CODER ✨
-#                  Join Updates Channel: https://t.me/UNRATED_CODER
+#                         ✨ MADE BY @EmptyJohan ✨
+#                  Join Updates Channel: https://t.me/UnknownBotz
 #=====================================================================================##
 
 import asyncio
@@ -196,7 +196,7 @@ async def start_command(client: Client, message: Message):
                 InlineKeyboardButton('ʙᴀꜱᴇ', url='https://t.me/UNRATED_CODER', style="primary")],
                 [InlineKeyboardButton('• ᴀʙᴏᴜᴛ', callback_data='about', style="primary"),
                 InlineKeyboardButton(' ʜᴇʟᴘ •', callback_data='help', style="primary")],
-                [InlineKeyboardButton("ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url='https://t.me/UNRATED_CODER', style="success")]
+                [InlineKeyboardButton("ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url='https://t.me/UnknownBotz', style="success")]
             ]
         )
         caption = START_MSG
@@ -218,8 +218,8 @@ async def start_command(client: Client, message: Message):
 
 
 # =====================================================================================##
-#                         ✨ MADE BY UNRATED CODER ✨
-#                  Join Updates Channel: https://t.me/UNRATED_CODER
+#                         ✨ MADE BY @EmptyJohan ✨
+#                  Join Updates Channel: https://t.me/UnknownBotz
 #====================================================================================##
 
 
@@ -306,7 +306,7 @@ async def not_joined(client: Client, message: Message):
     except Exception as e:
         print(f"Final Error: {e}")
         await temp.edit(
-            f"<b><i>! Eʀʀᴏʀ, Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛᴏ sᴏʟᴠᴇ ᴛʜᴇ ɪssᴜᴇs @UNRATED_CODER</i></b>\n"
+            f"<b><i>! Eʀʀᴏʀ, Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛᴏ sᴏʟᴠᴇ ᴛʜᴇ ɪssᴜᴇs @EmptyJohan"
             f"<blockquote expandable><b>Rᴇᴀsᴏɴ:</b> {e}</blockquote>"
         )
 
