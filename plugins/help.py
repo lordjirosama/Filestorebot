@@ -13,7 +13,7 @@ HELP_TEXT = """<b>🥰 ᴋᴏɴ’ɴɪᴄʜɪᴡᴀ USER_MENTION_PLACEHOLDER! ~<
 ᴏɴʟʏ ᴍʏ ᴄʜᴏꜱᴇɴ ᴅᴀʀʟɪɴɢꜱ ɢᴇᴛ ᴛᴏ ᴛᴏᴜᴄʜ ᴍʏ ꜱᴇᴄʀᴇᴛ ᴀɴɪᴍᴇ ᴀʀᴄʜɪᴠᴇꜱ. ᴊᴏɪɴ ᴍʏ ᴄʜᴀɴɴᴇʟꜱ, ᴏʀ ɴᴏ ᴛʀᴇᴀꜱᴜʀᴇꜱ ꜰᴏʀ ʏᴏᴜ! 🔓</b></blockquote>
 <b>🪄 ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ?</b>
 <blockquote expandable><b>⚙️ ᴀʜʜʜ! ᴅᴏɴ'ᴛ ᴛᴇʟʟ ᴍᴇ ʏᴏᴜ'ʀᴇ ᴛʜᴀᴛ ʜᴇʟᴘʟᴇꜱꜱ ᴡɪᴛʜᴏᴜᴛ ᴍʏ ɢᴜɪᴅᴀɴᴄᴇ? ꜰɪɴᴇ, ɪ'ʟʟ ʟᴇᴛ ʏᴏᴜ ᴡᴀᴛᴄʜ ᴍʏ ꜱɪᴍᴘʟᴇ ᴛᴜᴛᴏʀɪᴀʟ! 😉</b>
-👉 <b><a href="https://t.me/AniReal_Updates/107">ᴄʟɪᴄᴋ ʜᴇʀᴇ ꜰᴏʀ ᴛᴜᴛᴏʀɪᴀʟ 🎬</a></b></blockquote>
+👉 <b><a href="https://t.me/+0bPLOJYCDysxYTY1">ᴄʟɪᴄᴋ ʜᴇʀᴇ ꜰᴏʀ ᴛᴜᴛᴏʀɪᴀʟ 🎬</a></b></blockquote>
 <b>» ᴄᴏᴍᴍᴀɴᴅꜱ:</b>
 <blockquote expandable>‣ <b>/start</b> - ᴀᴡᴀᴋᴇɴ ᴍᴇ! 🟢
 ‣ <b>/help</b> – ʙᴇɢ ꜰᴏʀ ᴍʏ ɢᴜɪᴅᴇ 📜</blockquote>
@@ -55,11 +55,11 @@ async def help_command(client: Client, message: Message):
                     InlineKeyboardButton("• ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ •", callback_data="admin_cmds", style="primary")
                 ],
                 [
-                    InlineKeyboardButton("• ᴏᴡɴᴇʀ", url="https://t.me/UNRATED_CODER", style="success"),
-                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ •", url="https://t.me/UNRATED_CODER", style="success")
+                    InlineKeyboardButton("• ᴏᴡɴᴇʀ", url="https://t.me/UnknownBotz", style="success"),
+                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ •", url="https://t.me/UnknownBotz", style="success")
                 ],
                 [
-                    InlineKeyboardButton("• ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ •", url="https://t.me/UNRATED_CODER", style="success")
+                    InlineKeyboardButton("• ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ •", url="https://t.me/UnknownBotz", style="success")
                 ],
             ]
         )
@@ -111,11 +111,11 @@ async def back_to_help_callback(client: Client, callback_query):
                     InlineKeyboardButton("• ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ •", callback_data="admin_cmds", style="primary")
                 ],
                 [
-                    InlineKeyboardButton("• ᴏᴡɴᴇʀ", url="https://t.me/UNRATED_CODER", style="success"),
-                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ •", url="https://t.me/UNRATED_CODER", style="success")
+                    InlineKeyboardButton("• ᴏᴡɴᴇʀ", url="https://t.me/UnknownBotz", style="success"),
+                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ •", url="https://t.me/UnknownBotz", style="success")
                 ],
                 [
-                    InlineKeyboardButton("• ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ •", url="https://t.me/UNRATED_CODER", style="success")
+                    InlineKeyboardButton("• ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ •", url="https://t.me/UnknownBotz", style="success")
                 ],
             ]
         )
