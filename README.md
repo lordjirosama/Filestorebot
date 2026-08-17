@@ -205,12 +205,12 @@ python3 main.py
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,0.15), rgba(255,255,255,0)); margin: 30px 0;" />
 
 ## ⭐️ Credits & Developer
-Modified, optimized, and maintained with ❤️ by **[@UNRATED_CODER](https://t.me/UNRATED_CODER)**. 
+Modified, optimized, and maintained with ❤️ by **[@EmptyJohan](https://t.me/UnknownBotz)**. 
 
 Join our official channel for instant support, updates, and more elite open-source projects:
 
 <p align="left">
-  <a href="https://t.me/UNRATED_CODER">
+  <a href="https://t.me/UnknownBotz">
     <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111" alt="Telegram Channel" />
   </a>
 </p>
