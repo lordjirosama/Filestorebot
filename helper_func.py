@@ -213,6 +213,6 @@ def get_next_image(chat_id: int) -> str:
     return chosen
 
 # =====================================================================================##
-#                         ✨ MADE BY UNRATED CODER ✨
-#                  Join Updates Channel: https://t.me/UNRATED_CODER
+#                         ✨ MADE BY @EmptyJohan ✨
+#                  Join Updates Channel: https://t.me/UnknownBotz
 #====================================================================================##
