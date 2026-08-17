@@ -14,8 +14,8 @@
 #  ╚██████╗╚██████╔╝██████╔╝███████╗██║░░██║
 #  ░╚═════╝░╚═════╝░╚═════╝░╚══════╝╚═╝░░╚═╝
 #
-#                         ✨ MADE BY UNRATED CODER ✨
-#                  Join Updates Channel: https://t.me/UNRATED_CODER
+#                         ✨ MADE BY @EmptyJohan ✨
+#                  Join Updates Channel: https://t.me/UnknownBotz
 #=====================================================================================##
 
 import base64
